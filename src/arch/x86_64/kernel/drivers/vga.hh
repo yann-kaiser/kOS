@@ -3,7 +3,10 @@
 class VGA
 {
 	public:
-		VGA() = default;
+		VGA()
+			: cursor_x_(0)
+			, cursor_y_(0)
+	{}
 
 		void putchar(const char c);
 		void print(const char *str);
@@ -14,10 +17,10 @@ class VGA
 	private:
 		inline int offset_get() const
 		{
-			return (this->cursor_x_ + this->cursor_y_ * VGA::VGA_WIDTH);
+			return (this->cursor_x_ + this->cursor_y_ * VGA::VGA_WIDTH) * 2;
 		}
 
-		int *buffer = (int*)0xb8000;
+		char *buffer = (char*)0xb8000;
 		int cursor_x_;
 		int cursor_y_;
 		char color;
