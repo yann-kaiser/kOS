@@ -1,0 +1,9 @@
+/home/yann/Documents/Projects/Current/OS/build/CMakeFiles/edit_cache.dir
+/home/yann/Documents/Projects/Current/OS/build/CMakeFiles/rebuild_cache.dir
+/home/yann/Documents/Projects/Current/OS/build/CMakeFiles/kernel.bin.dir
+/home/yann/Documents/Projects/Current/OS/build/src/arch/x86_64/asm/CMakeFiles/edit_cache.dir
+/home/yann/Documents/Projects/Current/OS/build/src/arch/x86_64/asm/CMakeFiles/rebuild_cache.dir
+/home/yann/Documents/Projects/Current/OS/build/src/arch/x86_64/asm/CMakeFiles/ASM.dir
+/home/yann/Documents/Projects/Current/OS/build/src/arch/x86_64/kernel/CMakeFiles/rebuild_cache.dir
+/home/yann/Documents/Projects/Current/OS/build/src/arch/x86_64/kernel/CMakeFiles/edit_cache.dir
+/home/yann/Documents/Projects/Current/OS/build/src/arch/x86_64/kernel/CMakeFiles/KERNEL.dir

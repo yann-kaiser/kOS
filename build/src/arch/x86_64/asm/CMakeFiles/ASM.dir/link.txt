@@ -1,0 +1,2 @@
+/usr/bin/ar cr libASM.a  CMakeFiles/ASM.dir/boot.asm.o CMakeFiles/ASM.dir/long_mode_init.asm.o 
+/usr/bin/ranlib libASM.a 

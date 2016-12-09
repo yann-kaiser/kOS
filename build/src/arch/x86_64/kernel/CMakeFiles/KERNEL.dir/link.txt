@@ -1,0 +1,2 @@
+/usr/bin/ar qc libKERNEL.a  CMakeFiles/KERNEL.dir/core.cc.o CMakeFiles/KERNEL.dir/drivers/vga.cc.o
+/usr/bin/ranlib libKERNEL.a

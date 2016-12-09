@@ -1,0 +1,1 @@
+/usr/bin/c++        -o bin/kernel.bin -rdynamic -nostdlib src/arch/x86_64/asm/libASM.a src/arch/x86_64/kernel/libKERNEL.a 

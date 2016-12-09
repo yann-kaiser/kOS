@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yann/Documents/Projects/Current/OS/src/arch/x86_64/kernel/core.cc
+drivers/vga.hh
+/home/yann/Documents/Projects/Current/OS/src/arch/x86_64/kernel/drivers/vga.hh
+
+/home/yann/Documents/Projects/Current/OS/src/arch/x86_64/kernel/drivers/vga.cc
+vga.hh
+/home/yann/Documents/Projects/Current/OS/src/arch/x86_64/kernel/drivers/vga.hh
+
+/home/yann/Documents/Projects/Current/OS/src/arch/x86_64/kernel/drivers/vga.hh
+
